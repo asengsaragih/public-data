@@ -1,0 +1,54 @@
+{
+  "name": "zodiak picture",
+  "license": "https://dribbble.com/Molokovich",
+  "horoscope": [
+    {
+      "name": "aquarius",
+      "url": "https://raw.githubusercontent.com/asengsaragih/public-image/master/horoscope/aquarius.jpg"
+    },
+    {
+      "name": "aries",
+      "url": "https://raw.githubusercontent.com/asengsaragih/public-image/master/horoscope/aries.jpg"
+    },
+    {
+      "name": "cancer",
+      "url": "https://raw.githubusercontent.com/asengsaragih/public-image/master/horoscope/cancer.jpg"
+    },
+    {
+      "name": "capricorn",
+      "url": "https://raw.githubusercontent.com/asengsaragih/public-image/master/horoscope/capricorn.jpg"
+    },
+    {
+      "name": "gemini",
+      "url": "https://raw.githubusercontent.com/asengsaragih/public-image/master/horoscope/gemini.jpg"
+    },
+    {
+      "name": "leo",
+      "url": "https://raw.githubusercontent.com/asengsaragih/public-image/master/horoscope/leo.jpg"
+    },
+    {
+      "name": "libra",
+      "url": "https://raw.githubusercontent.com/asengsaragih/public-image/master/horoscope/libra.jpg"
+    },
+    {
+      "name": "pisces",
+      "url": "https://raw.githubusercontent.com/asengsaragih/public-image/master/horoscope/pisces.jpg"
+    },
+    {
+      "name": "sagittarius",
+      "url": "https://raw.githubusercontent.com/asengsaragih/public-image/master/horoscope/sagittarius.jpg"
+    },
+    {
+      "name": "scorpio",
+      "url": "https://raw.githubusercontent.com/asengsaragih/public-image/master/horoscope/scorpio.jpg"
+    },
+    {
+      "name": "taurus",
+      "url": "https://raw.githubusercontent.com/asengsaragih/public-image/master/horoscope/taurus.jpg"
+    },
+    {
+      "name": "virgo",
+      "url": "https://raw.githubusercontent.com/asengsaragih/public-image/master/horoscope/virgo.jpg"
+    }
+  ]
+}
