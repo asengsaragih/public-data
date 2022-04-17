@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Matematika"
+    },
+    {
+      "id": 2,
+      "name": "Bahasa Inggris"
+    },
+    {
+      "id": 3,
+      "name": "Bahasa Indonesia"
+    },
+    {
+      "id": 4,
+      "name": "Kimia"
+    },
+    {
+      "id": 5,
+      "name": "Fisika"
+    },
+    {
+      "id": 6,
+      "name": "Biologi"
+    }
+  ]
+}
